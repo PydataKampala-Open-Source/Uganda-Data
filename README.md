@@ -3,7 +3,6 @@ An overwhelming majority of Uganda Data is dirty, fragmented, inaccessible and n
 accessibility, redistribution and use of data for research, academia or industry for data-backed applications.
 This project seeks to create clean, accessible, reproducible and standardized IUganda datasets accross key sectors.
 
---
 ## How to Contribute
 Your contributions, however seemingly small you may think they are, are worthwhile and appreciated.
 
@@ -17,7 +16,6 @@ You may contribute to this project in the following ways;
 - Create tutorials on how to use Uganda data
 - Ask relevant Questions on the PyData Kampala forums.
 
---
 ## Code of Conduct
 PyData Kampala strictly follows the NumFocus CoC.
 
