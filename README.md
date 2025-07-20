@@ -1,7 +1,8 @@
 # Uganda-Data
 An overwhelming majority of Uganda Data is dirty, fragmented, inaccessible and not machine-readable. This has hindered
 accessibility, redistribution and use of data for research, academia or industry for data-backed applications.
-This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors.
+This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education,
+agriculture, health, governance, trade, transportation, etc.
 
 ## How to Contribute
 Your contributions, however seemingly small you may think they are, are worthwhile and appreciated.
