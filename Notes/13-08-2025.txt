@@ -1,1 +1,17 @@
+Attendance:
+Abudmalik K, Aaron, Kasango Penny, Babirye C.F, Hassan K, Enock N, Kakaire S, Ernest K
 
+Agenda
+- Project progress
+- Way forward
+
+To-Do
+- Start with the 2021 dataset to generate analysis questions, insigths, visualizations.
+- Experiment with Quarto on how build dashboards, render data insights
+- Experiment with gt-extras
+- Experiment with readclose to create insightful visualizations and articles
+- Suggest any inspirations of data visualizations, ideas, etc
+- Share drawings of ideas you wish can be added to the project
+- Correlate electoral data with population, electricity, ..., data
+- Hassan shall help get the latest shapefile for Uganda-2024 with administratve units
+- Contribution from diverse persons for the different tasks
